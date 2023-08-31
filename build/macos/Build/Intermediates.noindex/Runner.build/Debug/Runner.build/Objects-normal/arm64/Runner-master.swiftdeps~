@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "83ffe151cfdf40d883fdd0a0d48c28ae5018e586c74c902bfb92728f081715c3"
+build_start_time: [1693387326, 588415000]
+build_end_time: [1693387326, 661329000]
+inputs:
+  "/Users/donutzi/Desktop/IMIMobile/flutter_application_13/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1693387304, 188320240]
+  "/Users/donutzi/Desktop/IMIMobile/flutter_application_13/macos/Runner/AppDelegate.swift": !private [1686756961, 0]
+  "/Users/donutzi/Desktop/IMIMobile/flutter_application_13/macos/Runner/MainFlutterWindow.swift": !private [1686756961, 0]
